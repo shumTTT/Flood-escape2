@@ -1,2 +1,2 @@
-Flood escape2
+# Flood escape2
 сайт для fe2 фанатов
